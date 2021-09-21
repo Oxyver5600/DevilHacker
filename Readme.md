@@ -1,4 +1,4 @@
-# 😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈
+# ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂
 
 <p align="center">
   <a href="https://github.com/rakeshyt/DevilHacker/stargazers">
@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance 😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈 Bot Complete Rewritten Version Of [😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈](https://github.com/rakeshyt/DevilHacker)..__
+__This Is Just An Simple Advance ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ Bot Complete Rewritten Version Of [꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂](https://github.com/rakeshyt/DevilHacker)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -105,6 +105,6 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
- - Thanks To Sonal For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To 😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈 For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/rakeshyt)
+ - Thanks To Oxyver For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+ - Thanks To ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
+ - [Thanks To Me 👀](https://github.com/Oxyver5600)
