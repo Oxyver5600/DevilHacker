@@ -7,17 +7,17 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/rakeshyt",
-    "repository": "https://github.com/rakeshyt/DevilHacker",
+    "website": "https://github.com/Oxyver5600",
+    "repository": "https://github.com/Oxyver5600/DevilHacker",
     "success_url": "https://t.me/Enox_Movie_Request_Group",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
-            "value": "2521757"
+            "value": "6362436"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
-            "value": "cd8c2202d3329cd3c171b672c187f09c"
+            "value": "c0e8c637c6ea7c97fce7f4d9622aa023"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
