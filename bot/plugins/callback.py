@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>✨ Check links at @TheModdingGod ✨ Found</i> <code>{leng}</code> <i>Results For Your Request 😊:</i> <code>{query}</code>"
+    text=f"<i>✨ Check links at @Enox_Movie_Request_Group ✨ Found</i> <code>{leng}</code> <i>Results For Your Request 😊:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -580,7 +580,7 @@ async def cb_disconnect(bot, update: CallbackQuery):
     remove_active = await db.del_active(chat_id, int(channel_id))
     
     if not remove_active:
-        await update.answer("Couldnt Full Fill YOur Request...\n Report This @CrazyBotszGrp Along With Bot's Log", show_alert=True)
+        await update.answer("Couldnt Full Fill YOur Request...\n Report This @Oxyver_movies_requesting_group Along With Bot's Log", show_alert=True)
         return
     
     text= f"<i>Sucessfully Disconnected From</i> <code>{channel_name}</code>\n"
@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/DevilHackerRakesh"
+                    "My Dev ⚡", url="https://t.me/Oxyver_Owner"
                 ),
                 
             InlineKeyboardButton
@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/DevilHackerRakesh'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/rakeshyt/DevilHacker')
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Oxyver_Owner'),
+            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Oxyver5600/DevilHacker')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/TheModdingGod')
+            InlineKeyboardButton('Support 🛠', url='https://t.me/Enox_Movie_Request_Group')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
