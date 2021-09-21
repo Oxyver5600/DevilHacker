@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @DevilHackerRakesh
+# (c) @Jack_Legend1 @Oxyver_Owner
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -23,7 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = ("<code>" + file_name + """</code>\n<b>All Movies Here 👇 @TheModdingGod</b>""")
+        caption = ("<code>" + file_name + """</code>\n<b>All Movies Here 👇 @Enox_Movie_Request_Group</b>""")
 
         if file_type == "document":
         
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
                                 )
                         ]
                     ]
@@ -91,10 +91,10 @@ async def start(bot, update):
 # © shamilhabeebnelli
 
     buttons = [[
-        InlineKeyboardButton('😈Developer👿', url='https://t.me/DevilHackerRakesh'),
-        InlineKeyboardButton('😘Source Code', url ='https://github.com/rakeshyt/DevilHacker')
+        InlineKeyboardButton('😈Developer👿', url='https://t.me/Oxyver_Owner'),
+        InlineKeyboardButton('😘Source Code', url ='https://github.com/Oxyver5600/DevilHacker')
     ],[
-        InlineKeyboardButton('💁 Support 💁', url='https://t.me/TheModdingGod')
+        InlineKeyboardButton('💁 Support 💁', url='https://t.me/Oxyver_movies_requesting_group')
     ],[
         InlineKeyboardButton('🇮🇳 Help 🇮🇳', callback_data="help")
     ]]
