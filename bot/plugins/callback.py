@@ -1601,8 +1601,8 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈 Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/TheModdingGod">@TheModdingGod</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/rakeshyt/DevilHacker">Source</a>"""
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/Enox_Movie_Request_Group">@Enox_Movie_Request_Group</a>\n"""
+    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/Oxyver5600/DevilHacker">Source</a>"""
 
     buttons = [
         [
