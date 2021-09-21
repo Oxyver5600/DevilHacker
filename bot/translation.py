@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @DevilHackerRakesh
+# (c) @AlbertEinsteinTG @Oxyver_owner
 
 class Translation(object):
     
