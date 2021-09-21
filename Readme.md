@@ -1,18 +1,18 @@
 # ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂
 
 <p align="center">
-  <a href="https://github.com/rakeshyt/DevilHacker/stargazers">
+  <a href="https://github.com/Oxyver5600/DevilHacker/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/rakeshyt/DevilHacker/fork">
+  <a href="https://github.com/Oxyver5600/DevilHacker/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
 
-__This Is Just An Simple Advance ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ Bot Complete Rewritten Version Of [꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂](https://github.com/rakeshyt/DevilHacker)..__
+__This Is Just An Simple Advance ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ Bot Complete Rewritten Version Of [꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂](https://github.com/Oxyver5600/DevilHacker)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -68,12 +68,12 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://t.me/TheModdingGod)**</i>
+<i>**[Watch Deploying Tutorial...](https://t.me/Enox_Movie_Request_Group)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/DevilHacker/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Oxyver5600/DevilHacker/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/rakeshyt/DevilHacker
+git clone https://github.com/Oxyver5600/DevilHacker
 cd DevilHacker
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -92,14 +92,14 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/TheModdingGod) For Support/Assistance And Our [Account](https://t.me/DevilHackerRakesh) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/Enox_Movie_Request_Group) For Support/Assistance And Our [Account](https://t.me/Oxyver_Owner) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/rakeshyt/DevilHacker/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/Oxyver5600/DevilHacker/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
