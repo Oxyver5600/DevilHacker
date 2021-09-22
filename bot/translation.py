@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b><u>How are you! {}!!</b></u>
-<i>Am Just ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ Bot....😉
+<i>Am Just ꧁༒☬Enox Movies☬༒꧂ Bot....😉
 
 You can't Add me to your Group 🔥🔥😝
 
@@ -41,9 +41,9 @@ For More Details Click Help Button Below..
 
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> ꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂ Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> ꧁༒☬Enox Movies☬༒꧂ Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Oxyver_Owner">꧁༒☬𝓔𝓷𝓸𝔁 𝓜𝓸𝓿𝓲𝓮 𝓡𝓮𝓺𝓾𝓮𝓼𝓽 𝓖𝓻𝓸𝓾𝓹 𝓑𝓸𝓽☬༒꧂</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Oxyver_Owner">꧁༒☬Enox Movies☬༒꧂</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
