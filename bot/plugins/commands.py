@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_chatting_group"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_chatting_group"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_movies_requesting_group"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/Oxyver_chatting_group"
                                 )
                         ]
                     ]
@@ -92,9 +92,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('😈Developer👿', url='https://t.me/Oxyver_Owner'),
-        InlineKeyboardButton('😘Source Code', url ='https://github.com/Oxyver5600/DevilHacker')
+        InlineKeyboardButton('😘Source Code', url ='https://t.me/Enox_Movie_Request_Group')
     ],[
-        InlineKeyboardButton('💁 Support 💁', url='https://t.me/Oxyver_movies_requesting_group')
+        InlineKeyboardButton('💁 Support 💁', url='https://t.me/Oxyver_chatting_group')
     ],[
         InlineKeyboardButton('🇮🇳 Help 🇮🇳', callback_data="help")
     ]]
